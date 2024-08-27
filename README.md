@@ -1,6 +1,13 @@
 ## Hi there 👋
 ## I am Rabindra Dhakal. I am from Nepal and currently studying Information Technology at LAB University of Applied Sciences in Finland.
-## [I love to explore new things in the field of technology and keep up with the changing world.]
+## I love to explore new things in the field of technology and keep up with the changing world.
+## My Hobbies
+1. Playing Games
+2. Reading Books
+3. Travelling
+4. Listening news 
+   
+   
 ![This is my name](https://github.com/user-attachments/assets/eef76416-3246-43ef-84ad-976c96df5bf0)
 ##
 
