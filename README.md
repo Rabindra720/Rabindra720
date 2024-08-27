@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I am Rabindra Dhakal. I am from Nepal and currently studying Information Technology at LAB University of Applied Sciences.!
-![This is my picture](![35x45](https://github.com/user-attachments/assets/c4c399ac-9852-496f-94cd-55fe1071ac65))
+![This is my picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fitechenthusiast%2F&psig=AOvVaw3begGAxVrnMGIJV9HuPZMb&ust=1724828830295000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC7zpnOlIgDFQAAAAAdAAAAABAR)
 
 
 
