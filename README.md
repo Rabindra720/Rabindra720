@@ -1,6 +1,7 @@
 ## Hi there 👋
-## I am Rabindra Dhakal. I am from Nepal and currently studying Information Technology at LAB University of Applied Sciences.!
+## I am Rabindra Dhakal. I am from Nepal and currently studying Information Technology at LAB University of Applied Sciences in Finland.
 ![This is my name](https://github.com/user-attachments/assets/eef76416-3246-43ef-84ad-976c96df5bf0)
+[Here is my linkedin profile](https://www.linkedin.com/in/rabindra-dhakal-8323421b4/)
 
 
 
