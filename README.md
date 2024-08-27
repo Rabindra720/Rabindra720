@@ -3,7 +3,7 @@
 ![This is my name](https://github.com/user-attachments/assets/eef76416-3246-43ef-84ad-976c96df5bf0)
 ##
 
-**Here is my Linkedin profile**[Linkedin](https://www.linkedin.com/in/rabindra-dhakal-8323421b4/)
+Here is a link to my Linkedin profile[**Linkedin**](https://www.linkedin.com/in/rabindra-dhakal-8323421b4/)
 
 
 
