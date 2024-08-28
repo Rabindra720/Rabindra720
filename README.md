@@ -2,9 +2,9 @@
 ## I am Rabindra Dhakal. I am from Nepal and currently studying Information Technology at LAB University of Applied Sciences in Finland.I love to explore new things in the field of technology and keep up with the changing world.
 ## **My Hobbies**
 1. Playing Games
-   -Football
-    -Cricket
-     -Badminton    
+   _Football
+    _Cricket
+     _Badminton    
 3. Reading Books
 4. Travelling
 5. Listening news
