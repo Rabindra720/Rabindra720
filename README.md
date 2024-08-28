@@ -5,6 +5,10 @@
 2. Reading Books
 3. Travelling
 4. Listening news
+#My priorities
+Life
+-man
+ -woman
 
    
    
