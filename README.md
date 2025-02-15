@@ -1,3 +1,7 @@
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rabindra+Dhakal!;" />
+</h1>
 ## Hi there 👋
 ## I am Rabindra Dhakal. I am from Nepal and currently studying Information Technology at LAB University of Applied Sciences in Finland.I love to explore new things in the field of technology and keep up with the changing world.
 ## **My Hobbies**
