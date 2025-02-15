@@ -5,11 +5,8 @@
 </h1>
 <h1>🚀About Me</h1>
 💻 Computer Science Student | Web & Python Developer | Tech Enthusiast  <br>
-<br>
 🚀 Passionate about building web apps, working with sensors, and solving problems.  <br>
-<br>
 📚 Always learning and exploring new technologies.  <br>
-<br>
 👨‍💻Aspiring Software Developer <br>
 🎓 Studying Computer Science at LAB University of Applied Sciences, Finland  <br>
 🔹 Currently learning Python, JavaScript, React, and Node.js <br> 
