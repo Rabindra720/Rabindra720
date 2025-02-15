@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rabindra+Dhakal!;" />
 </h1>
 <h1>🚀About Me</h1>
-💻 Computer Science Student | Web & Python Developer | Tech Enthusiast  
-🚀 Passionate about building web apps, working with sensors, and solving problems.  
-📚 Always learning and exploring new technologies.  
-💻 Aspiring Software Developer | IT Student 
-<br>🎓 Studying Computer Science at LAB University of Applied Sciences, Finland  <br>
-<br>🔹 Currently learning **Python, JavaScript, React, and Node.js <br> 
-🔹 Interested in **AI, automation, and backend development
+💻 Computer Science Student | Web & Python Developer | Tech Enthusiast  <br>
+🚀 Passionate about building web apps, working with sensors, and solving problems.  <br>
+📚 Always learning and exploring new technologies.  <br>
+👨‍💻Aspiring Software Developer <br>
+🎓 Studying Computer Science at LAB University of Applied Sciences, Finland  <br>
+🔹 Currently learning **Python, JavaScript, React, and Node.js <br> 
+🔹 Interested in **AI, automation, and backend development<br>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
