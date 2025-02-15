@@ -9,11 +9,12 @@
 📚 Always learning and exploring new technologies.  <br>
 👨‍💻Aspiring Software Developer <br>
 🎓 Studying Computer Science at LAB University of Applied Sciences, Finland  <br>
-🔹 Currently learning **Python, JavaScript, React, and Node.js <br> 
-🔹 Interested in **AI, automation, and backend development<br>
+🔹 Currently learning Python, JavaScript, React, and Node.js <br> 
+🔹 Interested in AI, automation, and backend development<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rabindra-dhakal-8323421b4/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rujandhakal12@gmail.com) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DhakalRujan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@rujandhakal) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
